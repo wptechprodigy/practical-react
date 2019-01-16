@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is bootstrapped using [Create React App](https://github.com/facebook/create-react-app).
+
+## What's this about?
+I am learning to making dynamic UI using react as part of my journey<br>
+to become a Fullstack *MERNP - MongoDB, Express, React, Node, and PostgreSQL* Engineer.
 
 ## Available Scripts
 
